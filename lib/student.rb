@@ -1,7 +1,7 @@
 class Student
 
-  def hello
-
+  def hello(string)
+    string
   end
 
   def raise_hand
