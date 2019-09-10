@@ -1,11 +1,11 @@
 class Student
 
-  def hello(string)
-    string
+  def hello
+    puts "Hey there! I'm so excited to learn stuff."
   end
 
   def raise_hand
-    "Pick me!"
+    puts "Pick me!"
   end
 
 end
