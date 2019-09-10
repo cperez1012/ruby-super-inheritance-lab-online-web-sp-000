@@ -5,7 +5,7 @@ class Student
   end
 
   def raise_hand
-    10.times { |i| print i, "Pick me!\n"}
+    "Pick me!"
   end
 
 end
